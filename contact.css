@@ -1,0 +1,23 @@
+.nav-item a{
+ 	color:#fff;
+ }
+ .dropdown-menu a{
+ 	color: #000;
+ 	text-transform: uppercase;
+ }
+ .info{
+ 	text-align: center;
+ 	font-size: 30px;
+ 	color: #01589d;
+ 	border-bottom: solid red;
+ }
+ .full-info{
+ 	font-size: 18px;
+ 	color: #007bff;
+ }
+
+ .social-media{
+ 	margin-top: 100px;
+ 	font-size: 24px;
+	text-align: center;
+ }
